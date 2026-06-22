@@ -1,0 +1,1 @@
+Hi, this repo is just a collection of my projects i've done and my resume as well for job applications. I have a Bachelors degree in Data Science & Business Analytics at SIM with UOL and a Diploma in Computer Engineering from Singapore Polytechnic
